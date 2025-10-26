@@ -1,3 +1,7 @@
 {
+	"name": "vendor/package",
+	"description": "Short desctiption of the project",
+	"type": "project",
+	"license": "MIT",
 	"require": {}
 }
